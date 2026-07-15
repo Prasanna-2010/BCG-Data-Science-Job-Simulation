@@ -169,7 +169,7 @@ Passionate about Machine Learning, Data Analytics, and AI.
 
 🔗 **LinkedIn:** *(www.linkedin.com/in/prasanna-amin-203250386)*
 
-🔗 **GitHub:** *(Add your GitHub Profile URL here)*
+🔗 **GitHub:** *(https://github.com/Prasanna-2010)*
 
 ---
 
