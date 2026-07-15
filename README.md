@@ -167,7 +167,7 @@ B.Tech Computer Science (Data Science)
 
 Passionate about Machine Learning, Data Analytics, and AI.
 
-🔗 **LinkedIn:** *(Add your LinkedIn URL here)*
+🔗 **LinkedIn:** *(www.linkedin.com/in/prasanna-amin-203250386)*
 
 🔗 **GitHub:** *(Add your GitHub Profile URL here)*
 
